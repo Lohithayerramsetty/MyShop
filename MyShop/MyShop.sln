@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop", "MyShop\MyShop.csproj", "{EEEE9AC5-802F-45ED-BEA3-07F1F2D1FCFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.Core", "MyShop\MyShop.Core.csproj", "{EEEE9AC5-802F-45ED-BEA3-07F1F2D1FCFD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop.Services", "MyShop.Services\MyShop.Services.csproj", "{2F9FC639-881A-442B-8012-B9E518632A6F}"
 EndProject
